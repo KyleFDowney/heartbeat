@@ -12,13 +12,13 @@ function heartBeat (){
 
 
 function heartBeat2 (x,y){
-    var x = document.querySelector("heart").style.fontSize = "7.5em";
+    var x = document.querySelector("heart").style.fontSize = "10.7em";
     var y = document.querySelector("heart").style.color = "#ff5d7a";
     console.log("this works");
   }
 
 function heartBeat1 (x,y){
-  var x = document.querySelector("heart").style.fontSize = "7em";
+  var x = document.querySelector("heart").style.fontSize = "10em";
   var y = document.querySelector("heart").style.color = "#f994a6";
   console.log("this works");
   }
